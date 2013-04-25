@@ -1,2 +1,1 @@
-android_qcom_proprietary_prebuilt
-=================================
+Proprietary binary blobs for Qualcomm chipset-based mobiles
